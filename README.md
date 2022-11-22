@@ -15,5 +15,13 @@ To be made available:
 ### Reflectance Micro-FTIR Workflow
 <img src="./figs/workflow.svg">
  
-<img src="./figs/raw_data.svg">
+ 
+### Raw Marine Polymer Data and First Order Difference
+<img src="./figs/data.svg">
+ 
+### Best Performing Validation and Test Results
+<img src="./figs/training.svg">
+ 
+### Baseline Model Comparison
+<img src="./figs/baselines.svg">
  
