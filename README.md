@@ -12,4 +12,8 @@ To be made available:
  - Pre-processed data
  - High-quality graphics
 
+### Reflectance Micro-FTIR Workflow
+<img src="./figs/workflow.svg">
+ 
+<img src="./figs/raw_data.svg">
  
