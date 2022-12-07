@@ -6,11 +6,11 @@ This repository provides supplementary material for the following publications (
 
 M. Barker, M. Willans, D-S. Pham, A. Krishna, M. Hackett. Explainable Detection of Microplastics Using Transformer Neural Networks, in *[*Proceedings of the Australasian Joint Conference on Artificial Intelligence (AJCAI)*](https://ajcai2022.org/)*, Perth December 2022.
 
+Available in this repository: 
+- Reflectance micro-FTIR spectral data for standard and marine polymers
+
 To be made available:
  - Python code that implements the model 
- - More experimental results
- - Pre-processed data
- - High-quality graphics
 
 ### Reflectance Micro-FTIR Workflow
 <img src="./figs/workflow.svg">
