@@ -8,7 +8,7 @@ Available in this repository:
 - Reflectance micro-FTIR spectral data for standard and marine polymers
 - Python code that implements the model 
 
-For more information about how the data for this paper was collected I highly recommend reading the: [Development of a rapid detection protocol for microplastics using reflectance-FTIR spectroscopic imaging and multivariate classification](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=jEzDTakAAAAJ&citation_for_view=jEzDTakAAAAJ:9yKSN-GCB0I). 
+For more information about how the spectral data was collected I highly recommend reading the following: [Development of a rapid detection protocol for microplastics using reflectance-FTIR spectroscopic imaging and multivariate classification](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=jEzDTakAAAAJ&citation_for_view=jEzDTakAAAAJ:9yKSN-GCB0I). 
 
 If you find this useful, a citation is appreciated. 
 
