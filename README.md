@@ -1,12 +1,16 @@
 # [Explainable Detection of Microplastics Using Transformer Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_8)
 
-This repository provides supplementary material for the following publications (would appreciate a citation of our work if you find the tool useful)
+This repository provides supplementary material for the following publication:
 
 M. Barker, M. Willans, D-S. Pham, A. Krishna, M. Hackett. Explainable Detection of Microplastics Using Transformer Neural Networks, in *[*Proceedings of the Australasian Joint Conference on Artificial Intelligence (AJCAI)*](https://ajcai2022.org/)*, Perth December 2022.
 
 Available in this repository: 
 - Reflectance micro-FTIR spectral data for standard and marine polymers
 - Python code that implements the model 
+
+For more information about how the data for this paper was collected I highly recommend reading the: [Development of a rapid detection protocol for microplastics using reflectance-FTIR spectroscopic imaging and multivariate classification](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=jEzDTakAAAAJ&citation_for_view=jEzDTakAAAAJ:9yKSN-GCB0I). 
+
+If you find this useful, a citation is appreciated. 
 
 ## Setup and Execution
 This code runs using pytorch-gpu which you can download from [pytorch.org/](https://pytorch.org/).
